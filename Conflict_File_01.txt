@@ -1,1 +1,2 @@
 Testing conflict in Git Master.
+Conflict testing in Branch Git.
